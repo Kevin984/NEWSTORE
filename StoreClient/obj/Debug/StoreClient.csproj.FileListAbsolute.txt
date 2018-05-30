@@ -1,0 +1,17 @@
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\bin\Debug\StoreClient.exe.config
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\bin\Debug\StoreClient.exe
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\bin\Debug\StoreClient.pdb
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.csprojAssemblyReference.cache
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\MainWindow.g.cs
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\Store.g.cs
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\App.g.cs
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient_MarkupCompile.cache
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient_MarkupCompile.lref
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\MainWindow.baml
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\Store.baml
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.g.resources
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.Properties.Resources.resources
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.csproj.GenerateResource.cache
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.csproj.CoreCompileInputs.cache
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.exe
+A:\Users\Q\source\repos\NewOnlineStore\StoreClient\obj\Debug\StoreClient.pdb

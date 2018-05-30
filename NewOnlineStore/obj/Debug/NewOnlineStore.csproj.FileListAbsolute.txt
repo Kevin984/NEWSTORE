@@ -1,0 +1,16 @@
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\NewOnlineStore.dll.config
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\NewOnlineStore.dll
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\NewOnlineStore.pdb
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\EntityFramework.dll
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\EntityFramework.SqlServer.dll
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\Google.Protobuf.dll
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\MySql.Data.dll
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\EntityFramework.xml
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\EntityFramework.SqlServer.xml
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\Google.Protobuf.xml
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\bin\Debug\MySql.Data.xml
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\obj\Debug\NewOnlineStore.csprojAssemblyReference.cache
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\obj\Debug\NewOnlineStore.csproj.CoreCompileInputs.cache
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\obj\Debug\NewOnlineStore.csproj.CopyComplete
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\obj\Debug\NewOnlineStore.dll
+A:\Users\Q\source\repos\NewOnlineStore\NewOnlineStore\obj\Debug\NewOnlineStore.pdb
